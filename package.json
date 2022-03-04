@@ -1,0 +1,17 @@
+{
+  "name": "Wetland Music",
+  "version": "1.0.0",
+  "description": "Developer : Wetland",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Wetland",
+  "license": "ISC",
+  "dependencies": {
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "^0.0.8"
+  }
+}
